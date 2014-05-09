@@ -1,5 +1,3 @@
-# Sketch 3 快捷键中英文备忘
-
 ![Sketch 3](http://ww2.sinaimg.cn/large/5d2acc39gw1eftz1b4ul3j20tl0csmy4.jpg)
 > 之前整理过 [Sketch 2 的快捷键](http://jianshu.io/p/7a06a544ca02)，这才没过几天，Sketch 就出了新版本，我这里也更新一下。快捷键英文版依然是来自 [Sketch Shortcuts](http://sketchshortcuts.com/)。
 
@@ -121,4 +119,4 @@
 | Align Vertically Center | Cmd + [ |
 |  Align Horizontally Center | Cmd + ] |
 
-
+[全文 .md 文件下载](https://github.com/trai25/Learning/raw/master/Sketch/Shortcuts/Sketch_3_shortcuts.md)

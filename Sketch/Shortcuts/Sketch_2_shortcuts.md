@@ -1,5 +1,3 @@
-# Sketch 2 快捷键中英文备忘
-
 ![Sketch.app](http://trai25.qiniudn.com/image/png/0-oXSu6xaRUc7q1n96.png)
 
 > 最近刚从 Photoshop 投奔到 Sketch，很多快捷键不熟悉，刚才找到一个 Sketch 快捷键列表网站 [Sketch Shortcuts](http://sketchshortcuts.com/)，整理了一下，做了个中英文对照版放在这里，以备不时之需，也希望能对和我一样的新人有点用处。
@@ -97,13 +95,7 @@
 方法如图：
 ![自定义快捷键](http://trai25.qiniudn.com/image/png/Snip20140313_5.png)
 
+- - -
 
-
-
-
-
-
-
-
-
+[全文 .md 文件下载](https://github.com/trai25/Learning/raw/master/Sketch/Shortcuts/Sketch_2_shortcuts.md)
 
