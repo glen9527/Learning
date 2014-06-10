@@ -8,5 +8,5 @@
 
 * jQuery - [http://www.jquery.com](http://www.jquery.com)
 * TryjQuery - [http://try.jquery.com/](http://try.jquery.com/) 
-* jQuery快速API参考 - [http://www.css88.com/jqapi-1.9/](http://www.css88.com/jqapi-1.9/)
 * jQuery Learning Center - [http://learn.jquery.com/](http://learn.jquery.com/)
+* jQuery快速API参考 - [http://www.css88.com/jqapi-1.9/](http://www.css88.com/jqapi-1.9/)
