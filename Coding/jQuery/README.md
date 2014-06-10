@@ -3,3 +3,10 @@
 我会通过 [TryjQuery](http://try.jquery.com/) 学习 jQuery，并留下笔记。
 
 我英语不咋地，所以视频教程看的是[中文字幕版](http://blog.jobbole.com/37699/)。
+
+## 相关资源
+
+* jQuery - [http://www.jquery.com](http://www.jquery.com)
+* TryjQuery - [http://try.jquery.com/](http://try.jquery.com/) 
+* jQuery快速API参考 - [http://www.css88.com/jqapi-1.9/](http://www.css88.com/jqapi-1.9/)
+* jQuery Learning Center - [http://learn.jquery.com/](http://learn.jquery.com/)
