@@ -6,8 +6,8 @@
 
 ## 相关资源
 
-* jQuery - [http://www.jquery.com/](http://www.jquery.com/)
-* TryjQuery - [http://try.jquery.com/](http://try.jquery.com/) | [中文字幕版](http://blog.jobbole.com/37699/)
-* jQuery Learning Center - [http://learn.jquery.com/](http://learn.jquery.com/)
-* jQuery快速API参考 - [http://www.css88.com/jqapi-1.9/](http://www.css88.com/jqapi-1.9/)
-* jQuery基础课程（中文视频教程） - [http://www.imooc.com/view/11](http://www.imooc.com/view/11)
+*  [jQuery 官网](http://www.jquery.com/)
+*  [TryjQuery 视频教程+在线练习](http://try.jquery.com/) | [中文字幕版](http://blog.jobbole.com/37699/)
+*  [jQuery 官方学习重心](http://learn.jquery.com/)
+*  [jQuery快速API参考（中文）](http://www.css88.com/jqapi-1.9/)
+*  [慕课网 jQuery 基础课程（中文视频教程）](http://www.imooc.com/view/11)
